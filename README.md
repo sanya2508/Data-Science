@@ -49,5 +49,11 @@ Poor performance once deployed (in the real world) means there’s a difference 
 
 `Getting ready(MINICONDA)`: https://www.mrdbourke.com/get-your-computer-ready-for-machine-learning-using-anaconda-miniconda-and-conda/
 
+`JUPYTER Notebook Documentation`: https://jupyter-notebook.readthedocs.io/en/stable/
+
+`Dataquest Jupyter notebook for beginners tutorial`: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+
+
 
 
