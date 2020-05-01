@@ -43,5 +43,11 @@ Poor performance once deployed (in the real world) means there’s a difference 
 
 `Mathematics Course`: https://www.khanacademy.org/math
 
+`CONDA documentation`: https://docs.conda.io/en/latest/
+
+`Getting started with conda`: https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
+
+`Getting ready(MINICONDA)`: https://www.mrdbourke.com/get-your-computer-ready-for-machine-learning-using-anaconda-miniconda-and-conda/
+
 
 
