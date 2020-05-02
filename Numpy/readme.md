@@ -1,4 +1,4 @@
-# NUMPY (Numerical Python: A package for scientific computing with Python)
+# NumPy (Numerical Python: A package for scientific computing with Python)
 
 ## Why NumPy?
  * It's fast.
