@@ -10,8 +10,10 @@
 
 `NumPy documentation`: https://numpy.org/doc/
 
-https://numpy.org/doc/1.17/user/quickstart.html
+`NumPy Quickstart tutorial`: https://numpy.org/doc/1.17/user/quickstart.html
 
-http://jalammar.github.io/visual-numpy/
+`A Visual Intro to NumPy`: http://jalammar.github.io/visual-numpy/
 
-https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
+`The Basics of NumPy Arrays`: https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
+
+`Standard Deviation and Variance`: https://www.mathsisfun.com/data/standard-deviation.html
