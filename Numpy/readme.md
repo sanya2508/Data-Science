@@ -17,3 +17,7 @@
 `The Basics of NumPy Arrays`: https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html
 
 `Standard Deviation and Variance`: https://www.mathsisfun.com/data/standard-deviation.html
+
+`Matrix multiplication`: https://www.mathsisfun.com/algebra/matrix-multiplying.html
+
+
