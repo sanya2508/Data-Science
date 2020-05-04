@@ -10,3 +10,5 @@
 
 `Matplotlib Documentation`: https://matplotlib.org/3.1.1/contents.html
 
+`RegEx`: https://regexone.com/
+
