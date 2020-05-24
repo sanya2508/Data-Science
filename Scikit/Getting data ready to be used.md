@@ -54,3 +54,15 @@ This subtracts the mean value from all of the features (so the resulting feature
 * Fill/transform the training set and test sets separately (this goes for filling data with pandas as well)
 
 * Don't use data from the future (test set) to fill data from the past (training set)
+
+<hr/>
+
+#### SimpleImputer is a scikit-learn class which is helpful in handling the missing data in the predictive model dataset. It replaces the NaN values with a specified placeholder.
+
+It is implemented by the use of the SimpleImputer() method which takes the following arguments :
+
+* missing_values : The missing_values placeholder which has to be imputed. By default is NaN
+
+* stategy : The data which will replace the NaN values from the dataset. The strategy argument can take the values – ‘mean'(default), ‘median’, ‘most_frequent’ and ‘constant’.
+
+* fill_value : The constant value to be given to the NaN data using the constant strategy.
