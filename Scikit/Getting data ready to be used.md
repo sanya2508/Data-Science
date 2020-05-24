@@ -44,3 +44,13 @@ This subtracts the mean value from all of the features (so the resulting feature
 * https://benalexkeen.com/feature-scaling-with-scikit-learn/
 
 * https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
+
+<hr/>
+
+### Some takeaways:
+
+* Split your data first (into train/test), always keep your training & test data separate
+
+* Fill/transform the training set and test sets separately (this goes for filling data with pandas as well)
+
+* Don't use data from the future (test set) to fill data from the past (training set)
