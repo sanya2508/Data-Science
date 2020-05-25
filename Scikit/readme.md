@@ -59,6 +59,16 @@ In the “color” variable example, there are 3 categories and therefore 3 bina
 
 <hr/>
 
+## Make predictions using a machine learning model:
+
+2 ways to make predictions:
+
+1. `predict()`
+2. `predict_proba()`
+
+<hr/>
+
+
 
 ## References:
 `Scikit Documentation:` https://scikit-learn.org/stable/user_guide.html
