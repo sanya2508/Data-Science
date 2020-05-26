@@ -114,6 +114,13 @@ Poor performance once deployed (in the real world) means there’s a difference 
 `Dataquest Jupyter notebook for beginners tutorial`: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
 
+<hr/>
 
+### To install a conda package into the current envrionment from a Jupyter Notebook
 
+import sys
+
+!conda install --yes --prefix {sys.prefix} <package name>
+
+<hr/>
 
