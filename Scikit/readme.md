@@ -68,7 +68,13 @@ In the “color” variable example, there are 3 categories and therefore 3 bina
 
 <hr/>
 
+## Saving and loading a model:
+* Pickle
+* Joblib
 
+Reference: https://scikit-learn.org/stable/modules/model_persistence.html
+
+<hr/>
 
 ## References:
 `Scikit Documentation:` https://scikit-learn.org/stable/user_guide.html
